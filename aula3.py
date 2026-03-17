@@ -5,7 +5,6 @@
 #     print(f'Você foi multado em {multa*5} reais')
 # else:
 #     print('Você está dentro dos limites')
-from numba.core.utils import SortedMap
 
 # #Exercicio 2
 # a = float(input('Digite o valor: '))
